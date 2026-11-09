@@ -51,4 +51,4 @@ format. Install one, or take the whole pack.
 
 ## Status
 
-Draft build, November 2026. Not yet published.
+Published November 9, 2026.
